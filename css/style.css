@@ -233,6 +233,9 @@ footer .caja{
     .menu{
         width:100%;
     }
+    .menu h1{
+        width:100%;
+    }
     .contenedor-textos h4{
         font-size: 1em;
     }
