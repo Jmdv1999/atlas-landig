@@ -230,11 +230,8 @@ footer .caja{
     .container{
         padding: 30px 30px;
     }
-    .menu{
-        width:100%;
-    }
-    .menu h1{
-        width:100%;
+    nav{
+        display:none;
     }
     .contenedor-textos h4{
         font-size: 1em;
